@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Prof. Hiroshi Furuta"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Professor at Kochi University of Technology"
+  location         : "Kochi, Japan"
+  employer         : "Kochi University of Technology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Hiroshi+Furuta"
   googlescholar    : "https://scholar.google.com/citations?user=WoeLh_AAAAAJ&hl=en&oi=ao"
   email            : "hiroshifuruta@gmail.com"
