@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Professor at Kochi University of Technology"
   location         : "Kochi, Japan"
-  employer         : "Kochi University of Technology"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Hiroshi+Furuta"
   googlescholar    : "https://scholar.google.com/citations?user=WoeLh_AAAAAJ&hl=en&oi=ao"
   email            : "hiroshifuruta@gmail.com"
